@@ -12,11 +12,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/seishun/node-steam-resources"
+    "url": "git+https://github.com/seishun/node-steam-resources.git"
   },
   "keywords": [
     "steam"
   ],
   "author": "Nikolai Vavilov <vvnicholas@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seishun/node-steam-resources/issues"
+  },
+  "homepage": "https://github.com/seishun/node-steam-resources#readme",
+  "main": "index.js"
 }
